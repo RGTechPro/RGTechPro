@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
-<h3 align="center">A passionate App developer from India, With interests in Cyber Security,App Dev/Web Dev and Ethical Hacking ;)</h3>
+<h3 align="center">A passionate App developer from India, With interests in App Dev/Web Dev, updDevOPs and Ethical Hacking ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rgtechpro&label=Profile%20views&color=0e75b6&style=flat" alt="rgtechpro" /> </p>
 
